@@ -6,4 +6,4 @@ function init() {
 }
 
 
-const body = document.querySelector()
+const body = document.querySelector('body')
