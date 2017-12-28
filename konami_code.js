@@ -7,3 +7,4 @@ function init() {
 
 
 const body = document.querySelector('body')
+body.addEventListener
