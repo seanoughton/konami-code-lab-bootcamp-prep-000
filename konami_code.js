@@ -5,8 +5,8 @@ function init() {
   function whenKeyDownOccurs(e){
      alert('')
   }
-  
     const body = document.querySelector('body')
+    for(let i = 0;)
     body.addEventListener('keydown',whenKeyDownOccurs)
 
 }
