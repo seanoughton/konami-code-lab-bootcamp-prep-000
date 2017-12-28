@@ -7,4 +7,4 @@ function init() {
 
 
 const body = document.querySelector('body')
-body.addEventListener('click',)
+body.addEventListener('click',function(),)
