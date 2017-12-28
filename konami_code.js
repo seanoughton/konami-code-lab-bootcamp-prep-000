@@ -4,7 +4,10 @@ function init() {
   // Write your JavaScript code inside the init() function
   
 const body = document.querySelector('body')
-body.addEventListener( 'keydown',function(e){alert('')} )
+body.addEventListener( 'keydown',function(e){
+  
+  
+} )
 
 }
 
