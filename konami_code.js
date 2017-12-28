@@ -6,8 +6,10 @@ function init() {
      alert('')
   }
     const body = document.querySelector('body')
-    for(let i = 0;i < code.length; )
-    body.addEventListener('keydown',whenKeyDownOccurs)
+    for(let i = 0;i < code.length; i++){
+       body.addEventListener('keydown',whenKeyDownOccurs)
+      
+    }
 
 }
 
