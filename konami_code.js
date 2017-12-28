@@ -8,6 +8,9 @@ function init() {
     const body = document.querySelector('body')
     for(let i = 0;i < code.length; i++){
        body.addEventListener('keydown',whenKeyDownOccurs)
+       if(e.which === 72){
+         
+       }
       
     }
 
